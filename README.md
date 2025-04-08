@@ -41,7 +41,7 @@ A sleek, AI-powered math-solving web app that helps you solve problems instantly
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](https://shekhfaisal2110.github.io/MathAI/assets/desktop.png) | ![Mobile](https://shekhfaisal2110.github.io/MathAI/assets/mobile.png) |
+| ![Desktop](https://github.com/shekhfaisal2110/MathAI/blob/989fae9a9a6a05e832081a8df73c0198911cd020/screenshot/dashboard.png) | ![Mobile](https://github.com/shekhfaisal2110/MathAI/blob/989fae9a9a6a05e832081a8df73c0198911cd020/screenshot/mobile.png) |
 
 ---
 
